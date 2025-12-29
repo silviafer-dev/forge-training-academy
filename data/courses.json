@@ -1,0 +1,67 @@
+
+
+{
+  "courses": [
+       {
+      "id": "hecpo",
+      "title": "HECPO Hostile Environment Close Protection Operative",
+      "description": "HECPO – Hostile Environment Close Protection Operator (ISSA) The HECPO Course is an advanced program designed for professionals aiming to operate in high-risk and hostile environments, where close protection services are essential. Delivered by instructors with extensive international operational experience, the course combines tactical expertise, operational planning, and immersive practical simulations, preparing participants for real-world deployment in challenging conditions.";
+      "cost": 2500,
+      "date": { "start": "2026-07-06", "end": "2026-12-07" },
+      "duration": "7 Days",
+      "location": "Forge Training Academy - Sardinia",
+      "qualification": "ISSA HECPO Certification",
+      "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
+      "not-included": ["Flights","Visa"],
+    },
+    {
+      "id": "heat-5",
+      "title": "5 Days HEAT – Hostile Environment Awareness Training",
+      "description": "Dettaglio del corso HEAT: durata 5 giorni, argomenti trattati: riconoscimento minacce, movimento in convoglio, first aid di base, procedure di sicurezza. Requisiti: forma fisica base. Certificazione rilasciata al completamento.",
+      "cost": null,
+      "date": { "start": "2026-07-12", "end": "2026-10-07" },
+      "duration": "10 Days",
+      "location": null,
+      "qualification": "ISSA HECPO Certification",
+      "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
+      "not-included": ["Flights","Visa"], 
+    },
+    {
+      "id": "issa-10",
+      "title": "10 Days ISSA Executive Close Protection Operative Level V",
+      "description": "10-Day Close Protection Operator (CPO) — ISSA A professional transformation. Not just a course.",
+      "duration": "10 Days",
+      "cost": null,
+      "date": null,
+      "location": null,
+      "qualification": "ISSA HECPO Certification",
+      "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
+      "not-included": ["Flights","Visa"], 
+    },
+    {
+      "id": "ecpo-14",
+      "title": "14 Days Executive Close Protection Officer Level V + Executive FAR + Pistol Level I + CCW",
+      "description": "Dettaglio ECPO: 14 giorni combinati comprendenti Executive FAR, Pistol Level I e CCW. Requisiti e note logistiche incluse.",
+      "duration_days": 14,
+      "cost": null,
+      "date": null,
+      "location": null,
+      "qualification": "ISSA HECPO Certification",
+      "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
+      "not-included": ["Flights","Visa"], 
+    },
+    {
+      "id": "driver",
+      "title": "Security Driver",
+      "short_description": "Formazione pratica per conducenti di sicurezza.",
+      "long_description": "## DESCRIPTION\nOur security driver course is a fundamental part of the Close Protection Officer (CPO) job. Increasingly, bodyguards are often asked to also drive VIP vehicles. During the course, the latest procedures related to vehicles will be analyzed, including their features, strengths, and weaknesses. An important aspect will be the vehicle control to minimize any possibility of accidents, along with all the procedures for working as a security driver, including driving maneuvers and evasive techniques\n\n.. DATE (dd/mm/yy):\n.. COST: 200\n.. LOCATION: SP 27 KM 9+300 09040 Villasalto (CA)\n.. DURATION: 1 day\n.. QUALIFICATION:\n\n### INCLUDED\n- Accommodation\n- Insurance\n- Airport Transfers\n- Certification\n- 3 meals x day (if applicable)\n- Vehicles\n\n### NOT INCLUDED\n- Flights\n- Visa",
+      "duration_days": 1,
+      "cost": 200,
+      "date": null,
+      "location": "SP 27 KM 9+300 09040 Villasalto (CA)",
+      "qualification": null,
+      "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
+      "not-included": ["Flights","Visa"], 
+    }
+  ]
+}
