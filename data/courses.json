@@ -12,7 +12,7 @@
       "location": "Forge Training Academy - Sardinia",
       "qualification": "ISSA HECPO Certification",
       "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
-      "not-included": ["Flights","Visa"],
+      "not-included": ["Flights","Visa"]
     },
     {
       "id": "heat-5",
@@ -24,7 +24,7 @@
       "location": null,
       "qualification": "ISSA HECPO Certification",
       "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
-      "not-included": ["Flights","Visa"], 
+      "not-included": ["Flights","Visa"]
     },
     {
       "id": "issa-10",
@@ -36,7 +36,7 @@
       "location": null,
       "qualification": "ISSA HECPO Certification",
       "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
-      "not-included": ["Flights","Visa"], 
+      "not-included": ["Flights","Visa"]
     },
     {
       "id": "ecpo-14",
@@ -48,7 +48,7 @@
       "location": null,
       "qualification": "ISSA HECPO Certification",
       "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
-      "not-included": ["Flights","Visa"], 
+      "not-included": ["Flights","Visa"] 
     },
     {
       "id": "driver",
@@ -61,7 +61,7 @@
       "location": "SP 27 KM 9+300 09040 Villasalto (CA)",
       "qualification": null,
       "included": ["Accommodation","Insurance","Airport Transfers","ISSA HECPO Certification","3 meals x day","Range","Ammunitions"],
-      "not-included": ["Flights","Visa"], 
+      "not-included": ["Flights","Visa"]
     }
   ]
 }
